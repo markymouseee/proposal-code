@@ -109,3 +109,10 @@ button:hover{
         top: 260px;
     }
 }
+
+@media (max-width: 375px){
+    .fa-solid{
+        left: 150px;
+        top: 220px;
+    }
+}
