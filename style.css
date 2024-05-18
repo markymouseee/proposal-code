@@ -102,3 +102,10 @@ button:hover{
         right: 30px;
     }
 }
+
+@media (max-width: 360px){
+    .fa-solid{
+        left: 150px;
+        top: 260px;
+    }
+}
