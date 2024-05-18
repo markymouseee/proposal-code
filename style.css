@@ -78,6 +78,14 @@ button:hover{
 }
 
 @media (max-width: 430px){
+    .fa-cirlce-question{
+        left: 500px;
+    }
+
+    .fa-heart{
+        left: 500px;
+    }
+
     .body-main{
         height: 400px;
         width: 400px;
