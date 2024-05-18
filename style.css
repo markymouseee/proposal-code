@@ -76,3 +76,21 @@ button:hover{
         right: 570px;
     }
 }
+
+@media (max-width: 430px){
+    .body-main{
+        height: 400px;
+        width: 400px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    button{
+        width: 40%;
+    }
+
+    .buttonNo{
+        right: 30px;
+    }
+}
