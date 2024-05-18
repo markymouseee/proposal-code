@@ -80,6 +80,7 @@ button:hover{
 @media (max-width: 430px){
     .body-main{
         height: 400px;
+        width: 400px;
         display: flex;
         justify-content: center;
         align-items: center;
