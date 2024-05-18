@@ -30,6 +30,10 @@ body{
     font-weight: 900;
 }
 
+.fa-solid{
+    font-size: 60px; color: #eeee; position: absolute; top: 350px; left: 940px;
+}
+
 .button-group{
     display: flex;
     justify-content: space-between;
@@ -78,12 +82,8 @@ button:hover{
 }
 
 @media (max-width: 430px){
-    .fa-cirlce-question{
-        left: 500px;
-    }
-
-    .fa-heart{
-        left: 500px;
+    .fa-solid{
+        left: 193px;
     }
 
     .body-main{
